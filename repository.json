@@ -1,0 +1,6 @@
+{
+    "name": "addon-pi-hole",
+    "render_readme": true,
+    "url": "https://github.com/boglee/addon-pi-hole",
+    "maintainer": "ooo"
+}
